@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <spython
+# key: <spython
+# --
+#+BEGIN_SRC python ${1::session} ${2::results raw}
+$0
+#+END_SRC
+

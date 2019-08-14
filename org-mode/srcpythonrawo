@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: pyrawo
+# key: pyrawo
+# --
+print("#+attr_html: :width 600\n[[file:${1:filename.png}]]")$0
