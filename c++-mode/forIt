@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: forIt
+# key: forIt
+# --
+for (auto it=v.begin(); it != v.end(); ++it)
+{
+//
+}

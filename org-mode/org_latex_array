@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: <lar
+# key: <lar
+# --
+\begin{array}{c}
+${1: a}\\\\
+${2: b}\\\\
+${3: \vdots} \\\\
+${4: d}
+\end{array}
