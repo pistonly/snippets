@@ -2,4 +2,4 @@
 # name: pyrawo
 # key: pyrawo
 # --
-print("#+attr_html: :width 600\n[[file:${1:filename.png}]]")$0
+print("#+attr_html: :width 600\n[[file:%s]]" % ${1:filename})$0

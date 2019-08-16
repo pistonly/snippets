@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: argparse
+# key: argparse
+# --
+import argparse
+
+
+parser = argparse.ArgumentParser()
+$0parser.add_argument("--${1:path}", default="${2:tmp}", ${3:type=str})
+
+flags = parser.parse_args()
