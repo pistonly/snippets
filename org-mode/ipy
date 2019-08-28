@@ -2,6 +2,6 @@
 # name: ipy
 # key: ipy
 # --
-#+BEGIN_SRC ipython :session :results output raw drawer :tangle yes :exports both
+#+BEGIN_SRC ipython :session :results output raw drawer :tangle yes :exports both :async yes
 $0
 #+END_SRC
