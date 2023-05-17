@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jupyter-python
+# key: jpy
+# --
+#+BEGIN_SRC jupyter-python :session py :async yes :exports both :eval never-export :display text/plain :results raw
+$0
+#+END_SRC
